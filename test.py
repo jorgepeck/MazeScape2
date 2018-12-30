@@ -1,0 +1,1 @@
+print(True) if 7 < 7 else print(False)
